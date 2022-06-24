@@ -8,6 +8,7 @@ import java.util.*;
 /**
  * n개의 일을 처리하는 기계
  * 배열로 일을 처리하는데 걸리는 시간 {5,2,1,5,6,7}
+ * 동시에 끝난 일이 있다면 먼저 들어온 순서대로 저장
  * 처리되는 순서 배열에 저장해서 return
  */
 public class FCFS_Algorithm {
