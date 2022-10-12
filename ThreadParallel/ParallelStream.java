@@ -48,3 +48,5 @@ public class ParallelStream {
         executor.shutdown();
     }
 }
+
+//참고: https://velog.io/@heoseungyeon/%EB%B3%91%EB%A0%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC%EC%99%80-%EC%84%B1%EB%8A%A5
